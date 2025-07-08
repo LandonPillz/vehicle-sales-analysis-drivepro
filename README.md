@@ -1,6 +1,6 @@
 # DrivePro AutoHouse Vehicle Sales Analysis  
 **Timeframe:** December 2014 – July 2015  
-**Tools Used:** Power BI, Power Query (M), DAX, Star Schema Modeling
+**Tools Used:** Power BI, Power Query, DAX, Star Schema Modeling
 
 ---
 
@@ -18,6 +18,8 @@ This report analyzes over 540,000 used and new vehicle transactions across the U
 
 The top 5 makes were consistently dominant over the analysis period, while state-by-state performance and mileage brackets revealed clear segmentation opportunities. Patterns in vehicle color and seasonal demand offer further inventory and marketing optimization opportunities.
 
+<img width="991" height="637" alt="Image" src="https://github.com/user-attachments/assets/c3e6c7d7-33d9-43c7-a5f9-e2bcd1148c1f" />
+
 ---
 
 ## Insights Deep-Dive
@@ -31,6 +33,22 @@ The top 5 makes were consistently dominant over the analysis period, while state
 - The **top five most-sold makes** showed selling prices closely aligned with MMR, indicating effective pricing strategies.
 - **Florida, California, and Pennsylvania** recorded the highest total sales during the analysis period.
 - **Black, white, and silver** were the most commonly sold vehicle colors.
+
+---
+
+<img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/411815c3-cbfd-4486-9485-78c39ea4598c" />
+
+---
+
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/d8dba6b9-5f16-42ab-8e8a-1e428b0a5b00" />
+
+---
+
+<img width="350" height="400" alt="Image" src="https://github.com/user-attachments/assets/06d75475-936d-4983-a939-2d7cf8b728e3" />
+
+---
+
+<img width="350" height="400" alt="Image" src="https://github.com/user-attachments/assets/2f125c0f-8c63-4392-bc0c-b4f9b709aa7a" /> 
 
 ---
 
