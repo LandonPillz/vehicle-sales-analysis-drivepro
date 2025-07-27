@@ -6,7 +6,7 @@
 
 ## Project Background
 
-DrivePro AutoHouse is a national car dealership specializing in selling a wide variety of vehicles across the United States. In this project, I partnered with the Head of Operations to extract insights from historical sales data and deliver data-driven recommendations to improve the company’s vehicle inventory strategy.
+DrivePro AutoHouse is a fictional national car dealership specializing in selling a wide variety of vehicles across the United States. In this project, I partnered with the Head of Operations to extract insights from historical sales data and deliver data-driven recommendations to improve the company’s vehicle inventory strategy.
 
 The goal was to identify high-performing vehicle types, understand regional and seasonal sales trends, and uncover pricing dynamics — enabling DrivePro to make smarter, faster decisions about which vehicles to stock, where to allocate them, and how to price them in a highly competitive market.
 
